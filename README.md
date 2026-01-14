@@ -26,6 +26,16 @@ I’m a software engineer who likes building projects, from web apps to AI and d
 
 ---
 
+<img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=3865&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=dark" />
+
+---
+Tech thingies: 
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 ### Connect with me
 <a href="https://www.linkedin.com/in/obay-dev/">
   linkedin/obay-dev
